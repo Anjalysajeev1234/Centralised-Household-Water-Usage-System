@@ -1,0 +1,34 @@
+Water is one of the important resource on the planet earth that sustains Life. It's usage expands across the full life-cycle of any Human, and man can't go a day without usage of water. As for any resource available to us, the water available for Humanities Usage is Limited.
+Nearly 97% of the world’s water is salty or otherwise undrinkable. Another 2% is locked in ice caps and glaciers. That leaves just 1% for all of humanity’s needs — all its agricultural, residential, manufacturing, community, and personal needs.
+
+Sadly, Water remains one of the most wasted resource on our earth and Nowhere it is more evident than Our household with studies showing an Average family wasting about 35000 Litres of water annually. This is caused due to pure negligence and Not being Aware of the alarming situation of scarctiy of water we face. If the present Trend continues, we will see water inaccessible to 1.8 Billion people by year 2025.
+
+We believe the sustainable future demands two prime implementation of water usage from the most basic living space, the Household :
+-	Each household sticks to a suitable limit of daily water usage and takes conscious decision to stop over usage.
+-	Proper tools for the goverment to predict and forecast the water usage statistics and take Necessary precautions.
+
+AquaSaver, the Centralised Household water usage system does the above requirements efficiently. It is a platform that can be Utilised by Goverment at any Level and be made available to all citizens of the effective administration area. Aquasaver provides the following features :
+      For any citizen,
+-	Simple Registration option for all citizens by Unique Id and password.
+-	Profile Updation and Household family details Upload.
+-	Get a Suitable Daily Usage Limit.
+-	Buy the AquaSaver Flow sensor device with encoded Limit.
+-	Check  daily usage statistics, and see fines.
+     
+      For authorities,
+-	Quick list of households in an area with water usage data.
+-	See the reports, and set fines.
+-	Run the Machine Learning Model to forecast the water usage in an area.
+
+Our Machine Learning Model takes the data sets including :
+      -    Area details.
+      -    Number of households.
+      -    Previous years water usage data.  And can predict the usage for an area for upto 5 years.
+
+Once the system has been deployed in an household, the flowsensor detects,check for limit and report. Authorities can see live data, set suitable fines for over-usage,and compare the statistics area wise, it also gives them oppurtunity to take proactive steps to prevent water scarce.
+
+IBM technologies are at the core of our system, with cloud Foundry used for Webpage deployment and Hosting.
+
+In the fight for sustainable future of our earth, Each individual on the planet has a responsibility and nowhere it is more evident than in our houses. AquaSaver wishes to be the state-of-art conservation Tool available to all common citizens and a Central System for the authorities.It js indeed helpful to all citizen who wishes to take up the fight for water sustainability; Use AquaSaver, Save the water.
+
+
