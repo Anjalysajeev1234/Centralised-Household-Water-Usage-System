@@ -3,4 +3,4 @@ This forecasting model forecast the water consumption of an area in gallons over
 
 [Demo video here](https://youtu.be/ym0snXSpuUg)
 
-[Long description]()
+[Long description](https://github.com/Anjalysajeev1234/water_consumption_forecasting-model/blob/main/Description)
